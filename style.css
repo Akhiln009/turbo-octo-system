@@ -1,0 +1,27 @@
+body
+{
+	text-align: center;
+	
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+ .button
+ {
+	color: red;
+ }
+
+ h3{
+	color: aqua;
+ }
+
+ h4{
+	color: rgb(0, 170, 255);
+ }
